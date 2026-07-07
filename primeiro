@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>folha de estilo lincada</title>
+    <link rel="stylesheet" href="estilos.css">
+
+    <style>
+        body { margin: 0; padding: 0; font-size: 20px;}
+        p {
+            width: 400px;
+            text-align: justify;
+            background: #f6f6f6;
+            margin: 20px 80px 100px 40px;
+            border: solid;
+            border-top-color: red;
+            border-right-color: yellow;
+            border-bottom-color: black;
+            border-left-color: cyan;
+        }
+    </style>
+</head>
+<body>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Impedit doloremque hic et esse dignissimos nobis tempora
+     explicabo distintio quia, natus labore ipsum laborum
+     fuga ducimos iste qui? Incidunt, ipsum?
+  </p>
+    
+</body>
+</html>
